@@ -46,11 +46,7 @@ To run this notebook, you need to have Python and the following packages install
 - `xgboost`
 - `joblib`
 
-You can install the required packages using the following command:
-
-```sh
-pip install pandas tabulate numpy scikit-learn dash plotly ipykernel prophet seaborn xgboost joblib
-```
+You can install the required packages using the commands in the notebook.
 
 ## Usage
 
