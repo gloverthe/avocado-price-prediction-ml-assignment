@@ -98,6 +98,4 @@ This project aims to provide a forecasting model for avocado prices that can hel
 
 
 
----
 
-Would you like to make any modifications or add any additional information before saving this README.md file?
